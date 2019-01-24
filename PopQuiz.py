@@ -47,8 +47,3 @@ for quizNum in range(35):
     quizFile.close()
 answerKeyFile.close()
 
-
-
-
-
-
